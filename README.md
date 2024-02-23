@@ -1,2 +1,2 @@
 # OneShieldPlus
-App Config
+This is just the encripted app config of One Shield Plus
